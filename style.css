@@ -8,8 +8,8 @@
     height: 90vh;
   }
 
-  li:hover {
+  /* li:hover { this is a descriptive comment
     cursor: pointer;
-  }
+  } */
   
   ul{ list-style-type: none; }
