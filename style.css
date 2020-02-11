@@ -9,8 +9,8 @@
   }
 
   /* Nicer styles added */
-  li:hover {
+  /* li:hover { this is a descriptive comment
     cursor: pointer;
-  }
+  } */
   
   ul{ list-style-type: none; }
