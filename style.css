@@ -8,6 +8,7 @@
     height: 90vh;
   }
 
+  /* Nicer styles added */
   li:hover {
     cursor: pointer;
   }
