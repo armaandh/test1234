@@ -8,8 +8,8 @@
     height: 90vh;
   }
 
-  li:hover {
+  /* li:hover {
     cursor: pointer;
-  }
+  } */
   
   ul{ list-style-type: none; }
